@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file for your customer lifetime value prediction project on GitHub. Please replace the placeholders with the actual details and links:
-
----
-
 # Customer Lifetime Value Prediction Project
 
 Welcome to the Customer Lifetime Value (CLV) Prediction Project! 🚀
